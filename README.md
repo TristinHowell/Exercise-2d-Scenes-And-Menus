@@ -1,4 +1,4 @@
-# Exercise-2d-Scenes-And-Menus
+# Project 02—2D Arcade Space Shooter
 Exercise for MSCH-C220
 
 # Project Name 
@@ -7,10 +7,10 @@ Exercise for MSCH-C220
 Context and date
 2/7/24
 Description
-Arcade shooter created in unity
+Arcade shooter created in Unity
 
 ## Implementation
-Added sound affects and background onto 2d
+Added sound effects and background onto 2d
 
 ## References
 Nathan Mishler
